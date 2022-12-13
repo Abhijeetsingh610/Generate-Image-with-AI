@@ -24,3 +24,5 @@ Visit `http://localhost:5000` in your browser.
 
 you can try this (https://coffee-dolphin-tutu.cyclic.app/)
 
+if you are opening in phone then open in desktop mode 
+
