@@ -22,7 +22,7 @@ npm start
 
 Visit `http://localhost:5000` in your browser.
 
-you can try this (https://coffee-dolphin-tutu.cyclic.app/)
+<h4>You can try this (https://ai-image-generator.cyclic.app/)</h4>
 
-if you are opening in phone then open in desktop mode 
+If you are opening in phone then open in desktop mode 
 
